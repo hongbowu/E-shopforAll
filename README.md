@@ -16,7 +16,6 @@ E-shopforAll is an e-commerce back end application built using Express.js and Se
 
 To install the necessary dependencies, run the following command:
 
-```bash
 npm install
 
 ## Usage
